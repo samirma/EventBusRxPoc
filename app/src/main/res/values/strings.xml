@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">EventBusRxPoc</string>
+    <string name="start">send events</string>
 </resources>
